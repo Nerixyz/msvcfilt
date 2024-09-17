@@ -1,0 +1,6 @@
+build/
+.vscode/
+.code/
+.vs/
+.idea/
+.cache/
